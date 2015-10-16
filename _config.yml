@@ -1,6 +1,6 @@
 name: producingtheology
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.4773957359138876
 title: Weblog Dedicated to the Theological Study of Technology and the Church
 cta:
   domain: null
@@ -24,3 +24,4 @@ purpose:
   - name: engagement
     item: b3b06c38-678b-4722-a1bc-d50271916e12
     url: null
+typography_spectrum: 0.6128642947878689

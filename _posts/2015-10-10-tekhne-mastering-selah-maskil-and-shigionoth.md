@@ -6,11 +6,12 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A Biblical Examination of the Importance of Understanding "Details" in the Technical Arts'
+datePublished: '2015-12-01T16:07:02.791Z'
+dateModified: '2015-12-01T16:06:48.617Z'
 title: ' Tekhne: Mastering Selah, Maskil, and Shigionoth'
-dateModified: '2015-10-10T06:22:58.399Z'
-datePublished: '2015-10-12T05:14:13.547Z'
 sourcePath: _posts/2015-10-10-tekhne-mastering-selah-maskil-and-shigionoth.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -21,6 +22,8 @@ url: tekhne-mastering-selah-maskil-and-shigionoth/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc245c6-5504-4573-b3de-70df758b1f99.jpg)
+
 A Biblical Look at the Technical Arts and Understanding the DetailsTekhnê: Mastering Selah, Maskil, and Shigionoth
 
 By Josiah Way
@@ -282,6 +285,5 @@ Josiah Way is a postgraduate researcher, PhD Candidate, at the University of Bir
 \[82\] Huyser-Honig, "Technology in Worship."
 
 \[83\] Begbie,Resounding Truth, 283\.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc245c6-5504-4573-b3de-70df758b1f99.jpg)
 
 [0]: http://media.wix.com/ugd/937b07_3ebdf80b401744bfbe9bcfa46eefaeb4.pdf

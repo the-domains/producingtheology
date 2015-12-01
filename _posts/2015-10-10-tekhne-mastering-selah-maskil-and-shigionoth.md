@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A Biblical Examination of the Importance of Understanding "Details" in the Technical Arts'
-datePublished: '2015-12-01T16:20:16.979Z'
-dateModified: '2015-12-01T16:19:11.389Z'
+datePublished: '2015-12-01T16:24:26.227Z'
+dateModified: '2015-12-01T16:24:24.405Z'
 title: ' Tekhne: Mastering Selah, Maskil, and Shigionoth'
 sourcePath: _posts/2015-10-10-tekhne-mastering-selah-maskil-and-shigionoth.md
 published: true
@@ -22,7 +22,6 @@ url: tekhne-mastering-selah-maskil-and-shigionoth/index.html
 _type: Article
 
 ---
-null
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc245c6-5504-4573-b3de-70df758b1f99.jpg)
 
 **Tekhnê: Mastering Selah, Maskil, and Shigionoth**

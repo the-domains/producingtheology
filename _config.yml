@@ -1,7 +1,7 @@
 name: producingtheology
 favicon: null
-layout_spectrum: 0.4773957359138876
-typography_spectrum: 0.6128642947878689
+layout_spectrum: 0.90608
+typography_spectrum: 0.69501
 collections:
   - index:
       path: /
@@ -30,9 +30,9 @@ opengraph:
 color:
   brandColors: []
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.4375
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose:
   - name: engagement
     url: null

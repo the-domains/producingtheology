@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Weblog Dedicated to the Theological Study of Technology and the Church
+title: Weblog Dedicated to the Theological Study of Production Technology and the Church
 cta:
   domain: null
   bucket: null

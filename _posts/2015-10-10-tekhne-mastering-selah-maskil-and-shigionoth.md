@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A Biblical Examination of the Importance of Understanding "Details" in the Technical Arts'
-datePublished: '2015-12-01T16:18:22.169Z'
-dateModified: '2015-12-01T16:18:07.692Z'
+datePublished: '2015-12-01T16:19:11.389Z'
+dateModified: '2015-12-01T16:19:09.818Z'
 title: ' Tekhne: Mastering Selah, Maskil, and Shigionoth'
 sourcePath: _posts/2015-10-10-tekhne-mastering-selah-maskil-and-shigionoth.md
 published: true
@@ -289,4 +289,4 @@ _Josiah Way is a postgraduate researcher, PhD Candidate, at the University of Bi
 
 \[83\] Begbie,Resounding Truth, 283\.
 
-[0]: https://www.academia.edu/attachments/38450218/download_file?st=MTQ0ODk4NjMyNywxNjIuMTk5LjIwMC45OCwxMTUwNDYyMg%3D%3D&s=swp-toolbar
+[0]: https://www.academia.edu/14860177/Tekhne_-_Mastering_Selah_Maskil_and_Shigionoth_-_A_Biblical_Look_at_the_Technical_Arts_and_Understanding_the_Details
